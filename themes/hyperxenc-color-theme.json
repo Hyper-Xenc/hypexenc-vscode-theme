@@ -1,10 +1,11 @@
 {
   "name": "hyperxenc",
   "colors": {
-    "editor.background": "#0d1016",
+    "editor.background": "#191919",
     "editor.foreground": "#E5E9F0",
     "activityBarBadge.background": "#2E3440",
-    "sideBarTitle.foreground": "#E5E9F0",
+    "sideBar.background": "#202020",
+    "sideBarTitle.foreground": "#b8babe",
     "activityBar.background": "#2E3440",
     "activityBar.foreground": "#E5E9F0",
     "statusBar.background": "#2E3440",
@@ -70,7 +71,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#5E81AC"
+        "foreground": "#f2f6e8"
       }
     },
     {

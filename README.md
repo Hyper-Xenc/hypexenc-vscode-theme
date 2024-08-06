@@ -1,10 +1,8 @@
 # Hyper Xenc Theme
 
-![Hyper Xenc Logo](https://avatars.githubusercontent.com/u/172098438?s=400&u=146fe6662fcb8b7e721214ac2093fd62c4bce6ea&v=4)
-
 ## Overview
 
-Welcome to the **Hyper Xenc Theme**, a vibrant and modern theme designed to enhance your coding experience with visually appealing color schemes and a sleek design.
+Welcome to the **Hyper Xenc Theme**, a vibrant and modern theme designed to enhance your coding experience with visually appealing color schemes and a sleek design. The best part about this theme is that it receives regular updates, ensuring you experience refreshing changes and improvements periodically.
 
 ### Features
 
