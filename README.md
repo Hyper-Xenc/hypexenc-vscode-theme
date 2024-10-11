@@ -23,6 +23,25 @@ Welcome to the **Hyper Xenc Theme**, a vibrant and modern theme designed to enha
 
 Once installed, you can switch to the Hyper Xenc Theme by going to the command palette (`Ctrl+Shift+P`), typing `Color Theme`, and selecting `Hyper Xenc Theme`.
 
+### **Important: Further Customization**
+
+To match the overall vibe of the theme and get the most out of it, it's recommended to update your `settings.json` file in Visual Studio Code. Specifically, you can enhance the appearance of the title bar and other interface elements with the following settings:
+
+```json
+{
+  "window.titleBarStyle": "custom",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#1C1E26",
+    "titleBar.activeForeground": "#00D787",
+    "titleBar.inactiveBackground": "#1C1E26",
+    "titleBar.inactiveForeground": "#808080",
+    "titleBar.border": "#1C1E26"
+  }
+}
+```
+
+These changes will help create a more cohesive visual experience when using the Hyper Xenc Theme.
+
 ## Hyper Xenc
 
 Hyper Xenc is founded by **Bhawesh Chaudhary**. It provides a range of IT services, including but not limited to:

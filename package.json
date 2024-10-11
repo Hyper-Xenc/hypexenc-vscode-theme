@@ -2,7 +2,12 @@
   "name": "hyperxenc",
   "displayName": "Hyper Xenc",
   "description": "An official Hyper Xenc Vscode theme",
-  "version": "0.0.7",
+  "author": {
+    "name": "Bhawesh Chaudhary",
+    "email": "thisisbhawesh@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/bhaweshchaudhary/"
+  },
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.91.0"
   },

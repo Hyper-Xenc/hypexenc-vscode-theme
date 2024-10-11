@@ -1,19 +1,19 @@
 {
   "name": "hyperxenc",
   "colors": {
-    "editor.background": "#191919",
-    "editor.foreground": "#E5E9F0",
-    "activityBarBadge.background": "#2E3440",
-    "sideBar.background": "#202020",
-    "sideBarTitle.foreground": "#b8babe",
-    "activityBar.background": "#2E3440",
-    "activityBar.foreground": "#E5E9F0",
-    "statusBar.background": "#2E3440",
-    "statusBar.foreground": "#E5E9F0",
-    "statusBarItem.hoverBackground": "#3B4252",
-    "statusBar.noFolderBackground": "#2E3440",
-    "statusBar.debuggingBackground": "#4C566A",
-    "statusBar.debuggingForeground": "#E5E9F0"
+    "editor.background": "#1C1E26",
+    "editor.foreground": "#00D787",
+    "activityBarBadge.background": "#1C1E26",
+    "sideBar.background": "#1C1E26",
+    "sideBarTitle.foreground": "#00D787",
+    "activityBar.background": "#1C1E26",
+    "activityBar.foreground": "#00D787",
+    "statusBar.background": "#1C1E26",
+    "statusBar.foreground": "#00D787",
+    "statusBarItem.hoverForeground": "#00D787",
+    "statusBar.noFolderBackground": "#1C1E26",
+    "statusBar.debuggingBackground": "#C674DD",
+    "statusBar.debuggingForeground": "#FFFFFF"
   },
   "tokenColors": [
     {
@@ -21,28 +21,28 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#81A1C1"
+        "foreground": "#5E81AC"
       }
     },
     {
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#D08770"
+        "foreground": "#8FBCBB"
       }
     },
     {
       "name": "Colors",
       "scope": ["constant.other.color"],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#88C0D0"
       }
     },
     {
       "name": "Invalid",
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
-        "foreground": "#FF0000",
+        "foreground": "#BF616A",
         "fontStyle": "underline"
       }
     },
@@ -50,7 +50,7 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#BF616A",
+        "foreground": "#D08770",
         "fontStyle": "bold"
       }
     },
@@ -71,7 +71,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#f2f6e8"
+        "foreground": "#C5C8C6"
       }
     },
     {
