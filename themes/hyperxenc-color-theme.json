@@ -1,19 +1,25 @@
 {
   "name": "hyperxenc",
   "colors": {
-    "editor.background": "#1C1E26",
+    "editor.background": "#151728",
     "editor.foreground": "#00D787",
-    "activityBarBadge.background": "#1C1E26",
-    "sideBar.background": "#1C1E26",
+    "activityBarBadge.background": "#151728",
+    "sideBar.background": "#151728",
     "sideBarTitle.foreground": "#00D787",
-    "activityBar.background": "#1C1E26",
+    "activityBar.background": "#151728",
     "activityBar.foreground": "#00D787",
-    "statusBar.background": "#1C1E26",
+    "statusBar.background": "#151728",
     "statusBar.foreground": "#00D787",
     "statusBarItem.hoverForeground": "#00D787",
-    "statusBar.noFolderBackground": "#1C1E26",
-    "statusBar.debuggingBackground": "#C674DD",
-    "statusBar.debuggingForeground": "#FFFFFF"
+    "statusBar.noFolderBackground": "#151728",
+    "statusBar.debuggingBackground": "#151728",
+    "statusBar.debuggingForeground": "#00D787",
+    "editorGroupHeader.tabsBackground": "#151728",
+    "tab.activeBackground": "#223636",
+    "tab.activeForeground": "#00D787",
+    "tab.inactiveBackground": "#212435",
+    "tab.inactiveForeground": "#b0b0b0",
+    "tab.activeBorder": "#00D787"
   },
   "tokenColors": [
     {

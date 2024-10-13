@@ -1,5 +1,3 @@
-# Hyper Xenc Theme
-
 ## Overview
 
 Welcome to the **Hyper Xenc Theme**, a vibrant and modern theme designed to enhance your coding experience with visually appealing color schemes and a sleek design. The best part about this theme is that it receives regular updates, ensuring you experience refreshing changes and improvements periodically.
@@ -31,27 +29,16 @@ To match the overall vibe of the theme and get the most out of it, it's recommen
 {
   "window.titleBarStyle": "custom",
   "workbench.colorCustomizations": {
-    "titleBar.activeBackground": "#1C1E26",
+    "titleBar.activeBackground": "#151728",
     "titleBar.activeForeground": "#00D787",
-    "titleBar.inactiveBackground": "#1C1E26",
+    "titleBar.inactiveBackground": "#151728",
     "titleBar.inactiveForeground": "#808080",
-    "titleBar.border": "#1C1E26"
+    "titleBar.border": "#151728"
   }
 }
 ```
 
 These changes will help create a more cohesive visual experience when using the Hyper Xenc Theme.
-
-## Hyper Xenc
-
-Hyper Xenc is founded by **Bhawesh Chaudhary**. It provides a range of IT services, including but not limited to:
-
-- Custom Software Development
-- Web and Mobile Application Development
-- Cloud Solutions and Services
-- IT Consulting and Strategy
-
-For more information, visit [Hyper Xenc](https://www.hyperxenc.com).
 
 ## Contributing
 
@@ -73,5 +60,3 @@ This theme is licensed under the MIT License. See the [LICENSE](https://github.c
 ---
 
 Thank you for using the Hyper Xenc Theme! If you enjoy it, please leave a review and star the repository.
-
-![Are you a spiderman fan?](https://i.pinimg.com/originals/bb/93/e4/bb93e428f0ebd98f5c1de78f45b54994.jpg)
