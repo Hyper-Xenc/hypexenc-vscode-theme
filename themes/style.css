@@ -1,0 +1,36 @@
+.monaco-workbench
+  .part.editor
+  > .content
+  .editor-group-container
+  > .title.tabs
+  .tab {
+  border-radius: 9px;
+  margin-right: 6px;
+}
+
+/* .monaco-workbench
+  .part.editor
+  > .content
+  .editor-group-container
+  > .title.tabs
+  .tabs-and-actions-container {
+  overflow-x: hidden;
+}
+
+.monaco-workbench
+  .part.editor
+  > .content
+  .editor-group-container
+  > .title.tabs
+  .tabs-scrollable {
+  scrollbar-width: none;
+}
+
+.monaco-workbench
+  .part.editor
+  > .content
+  .editor-group-container
+  > .title.tabs
+  .tabs-scrollable::-webkit-scrollbar {
+  display: none;
+} */
