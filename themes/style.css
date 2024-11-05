@@ -4,8 +4,18 @@
   .editor-group-container
   > .title.tabs
   .tab {
-  border-radius: 6px;
-  margin-right: 6px;
+  border-radius: 9px;
+  margin-right: 5px;
+  border: none;
+}
+
+.monaco-workbench
+  .part.editor
+  > .content
+  .editor-group-container
+  > .title.tabs
+  .tab.active {
+  border-bottom: 1px dotted #00d787;
 }
 
 /* .monaco-workbench

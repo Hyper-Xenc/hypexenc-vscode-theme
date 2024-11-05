@@ -29,11 +29,11 @@ To match the overall vibe of the theme and get the most out of it, it's recommen
 {
   "window.titleBarStyle": "custom",
   "workbench.colorCustomizations": {
-    "titleBar.activeBackground": "#021526",
+    "titleBar.activeBackground": "#101519",
     "titleBar.activeForeground": "#41B3A2",
     "titleBar.inactiveBackground": "#0C0C0C",
     "titleBar.inactiveForeground": "#808080",
-    "titleBar.border": "#021526"
+    "titleBar.border": "#101519"
   }
 }
 ```
